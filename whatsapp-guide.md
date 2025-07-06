@@ -20,3 +20,5 @@
 2. Add a **profile photo**
 
 ✅ *You're now ready to use WhatsApp!*
+## give status:
+if you want you can share video  
