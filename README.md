@@ -9,8 +9,9 @@ This portfolio showcases my beginner-friendly documentation written in Markdown 
 - [How to Use Shein on Android](shein-guide.md)
 - [Weather API Documentation](weather-api-doc.md)
 - [Book Info API Documentation](BOOK-Info-doc.md)
-##  Skills & Tools
+##  Skills Demonstrated
 
-- Markdown for documentation
-- GitHub for version control
-- Writing simple, clear user guides
+- Markdown formatting
+- User documentation structure
+- Clear, step-by-step writing
+- GitHub project management
