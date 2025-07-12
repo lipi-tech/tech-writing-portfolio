@@ -20,8 +20,14 @@ This guide explains how to install, register, and set up WhatsApp on Android pho
 1. Type your **name**
 2. Add a **profile photo**
 
+## Step 4: Start Messaging
+1. Tap the **chat icon** to start a conversation
+2. Search for a contact
+3. Type your message and tap **Send**
+
 ✅ *You're now ready to use WhatsApp!*
-## give status:
+
+## Give status:
 if you want you can share video  
 
 
