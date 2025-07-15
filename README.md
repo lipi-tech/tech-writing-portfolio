@@ -1,7 +1,6 @@
 #  📘 Technical Writing Portfolio – Lipi Begum
 
-Hi! I'm Lipi, a Computer Science graduate from DTU exploring the field of technical writing.  
-This portfolio showcases my beginner-friendly documentation written in Markdown and published on GitHub.
+Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-friendly technical documentation.
 
 ## ✨ Writing Samples
 
