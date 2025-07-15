@@ -11,6 +11,8 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [Weather API Documentation](weather-api-doc.md)
 - [Book Info API Documentation](BOOK-Info-doc.md)
 - [How to Use Google Drive on Android](google-drive-guide.md)
+- [API Error Codes Documentation](api-error-codes.md)
+
   
 ---
 
