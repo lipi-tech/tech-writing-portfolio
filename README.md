@@ -16,3 +16,6 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - User documentation structure
 - Clear, step-by-step writing
 - GitHub project management
+## 🔗 Useful Links
+
+- [GitHub Profile](https://github.com/lipi-tech)
