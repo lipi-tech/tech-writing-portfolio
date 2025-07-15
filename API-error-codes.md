@@ -1,58 +1,19 @@
-# Weather API Documentation
+# API Error Codes Documentation
 
-The Weather API allows you to get current weather data for any city.
-
----
-
-## 🔑 Authentication
-
-You must obtain an API key to access the Weather API. Include this key in every request.
-
-Example:
-```
-API key: YOUR_API_KEY
-```
+This guide explains the common error codes returned by the Example API and how users can resolve them.
 
 ---
 
-## 📥 Endpoint
-
-```
-GET https://api.example.com/weather?city={city_name}&key={API_KEY}
-```
-
----
-
-### Parameters:
-
-| Parameter | Description         | Example     |
-| --------- | ------------------- | ----------- |
-| `city`    | Name of the city    | `London`    |
-| `key`     | Your API key        | `abc123xyz` |
-
----
-
-## 📤 Response Example
-
-```json
-{
-  "city": "London",
-  "temperature": "18°C",
-  "condition": "Cloudy"
-}
-```
-
----
-
-
-## ⚠️ Error Codes
+## Error Codes Reference
 
 | Code | Meaning | Suggested Action |
 | ---- | ------- | ---------------- |
-| 401  | Unauthorized | Check your API key |
-| 404  | Not Found | Verify the city name |
-| 500  | Server Error | Try again later |
+| 200  | Success | No action needed |
+| 400  | Bad Request | Review your API request for proper formatting |
+| 401  | Unauthorized | Ensure you are using a valid API key |
+| 404  | Not Found | Confirm the requested endpoint or resource is correct |
+| 500  | Server Error | Try again later or contact the API support team |
 
 ---
 
-✅ *Use this documentation to integrate weather data into your application.*
+✅ *Refer to this table when troubleshooting API responses.*
