@@ -7,11 +7,13 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 ## ✨ Writing Samples
 
 - [How to Use WhatsApp on Android](whatsapp-guide.md)
-- [How to Use Shein on Android](shein-guide.md)
+- [How to Use Shein on Android](Shein-Guide.md)
 - [Weather API Documentation](weather-api-doc.md)
 - [Book Info API Documentation](BOOK-Info-doc.md)
 - [How to Use Google Drive on Android](google-drive-guide.md)
-- [API Error Codes Documentation](api-error-codes.md)
+- [API Error Codes Documentation](API-error-codes.md)
+- [API Authentication Documentation](ApI-Authentication-Doc.md)
+
 
   
 ---
