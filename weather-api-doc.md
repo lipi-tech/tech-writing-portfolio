@@ -1,6 +1,7 @@
 # Weather API Documentation
 
-The Weather API allows you to get current weather data for any city.
+This documentation explains how to use the Weather API to retrieve current weather data for any city.
+
 
 ---
 
@@ -23,7 +24,7 @@ GET https://api.example.com/weather?city={city_name}&key={API_KEY}
 
 ---
 
-### Parameters:
+## Parameters:
 
 | Parameter | Description         | Example     |
 | --------- | ------------------- | ----------- |
@@ -49,9 +50,10 @@ GET https://api.example.com/weather?city={city_name}&key={API_KEY}
 
 | Code | Meaning | Suggested Action |
 | ---- | ------- | ---------------- |
-| 401  | Unauthorized | Check your API key |
-| 404  | Not Found | Verify the city name |
-| 500  | Server Error | Try again later |
+| 401  | Unauthorized | Ensure you provided a valid API key |
+| 404  | Not Found | Check that the city name is correct |
+| 500  | Server Error | Try again later or contact support |
+
 
 ---
 
