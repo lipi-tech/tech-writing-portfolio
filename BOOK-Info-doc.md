@@ -1,37 +1,57 @@
-#Book Info API
+# Book Info API Documentation
 
-## 📘 Introduction
-The Book Info API provides details such as title, author, publication year, and genre based on the book title.
+This guide explains how to use the Book Info API to retrieve details about books.
 
+---
 
-## 🔑 Authentication
-You must register and get an API key to use this API.
+## 🔐 Authentication
 
-Example API key: `YOUR_API_KEY`
+You must include a valid API key with each request.
+
+Example:
+```
+API key: YOUR_API_KEY
+```
+
+---
 
 ## 📥 Endpoint
+
 ```
 GET https://api.example.com/book?title={book_title}&key={API_KEY}
 ```
-### Parameters:
 
-| Parameter | Description         | Example     |
-| --------- | ------------------- | ----------- |
-| `title`    | Title of the book   | `The Hobbit`    |
-| `key`     | API key       | `abc123` |
+---
 
-## 📤 Response Example
+## 🔧 Parameters
+
+| Parameter | Description           | Example         |
+| --------- | --------------------- | --------------- |
+| `title`   | Title of the book     | `Pride and Prejudice` |
+| `key`     | Your API key          | `abc123xyz`     |
+
+---
+
+## 📤 Example Response
+
 ```json
 {
-  "title": "The Hobbit",
-  "author": "J.R.R. Tolkien",
-  "year": 1937,
-  "genre": "Fantasy"
+  "title": "Pride and Prejudice",
+  "author": "Jane Austen",
+  "year": "1813"
 }
 ```
+
+---
+
 ## ⚠️ Error Codes
 
-| Code | Meaning                              |
-|------|--------------------------------------|
-| 401  | Unauthorized (Invalid API key)      |
-| 404  | Book not found                      |
+| Code | Meaning | Suggested Action |
+| ---- | ------- | ---------------- |
+| 401  | Unauthorized | Ensure your API key is valid |
+| 404  | Not Found | Check that the book title is correct |
+| 500  | Server Error | Try again later or contact support |
+
+---
+
+✅ *Use this documentation to easily retrieve book information using the API.*
