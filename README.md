@@ -15,6 +15,8 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [API Authentication Documentation](ApI-Authentication-Doc.md)
 - [Example App FAQ](example-app-faq.md)
 - [Example Editor Installation Guide](example-editor-installation-guide.md)
+- [Getting Started with TaskManager App](getting-started-taskmanager.md)
+
 
 
   
