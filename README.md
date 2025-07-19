@@ -17,6 +17,8 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [Example Editor Installation Guide](example-editor-installation-guide.md)
 - [Getting Started with TaskManager App](getting-started-taskmanager.md)
 - [WhatsApp – Release Notes v3.0](release-notes-whatsapp-v3.md)
+- [WhatsApp – User Troubleshooting Guide](whatsapp-troubleshooting-guide.md)
+
 
 
 
