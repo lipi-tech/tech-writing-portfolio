@@ -23,6 +23,7 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [Microsoft Word – Glossary of Common Terms](microsoft-word-glossary.md)
 - [WhatsApp – Known Issues](whatsapp-known-issues.md)
 - [WhatsApp – Notification Settings Configuration Guide](whatsapp-notification-configuration-guide.md)
+- [WhatsApp – Quick Start Guide](whatsapp-quick-start-guide.md)
 
 
 
