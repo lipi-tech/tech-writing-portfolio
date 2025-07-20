@@ -19,6 +19,8 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [WhatsApp – Release Notes v3.0](release-notes-whatsapp-v3.md)
 - [WhatsApp – User Troubleshooting Guide](whatsapp-troubleshooting-guide.md)
 - [WhatsApp – Disappearing Messages Feature Overview](whatsapp-disappearing-messages-overview.md)
+- [WhatsApp Desktop – Keyboard Shortcuts Guide](whatsapp-keyboard-shortcuts-guide.md)
+
 
 
 
