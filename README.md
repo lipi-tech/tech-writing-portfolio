@@ -24,6 +24,7 @@ Hi! I'm Lipi, a Computer Science graduate from DTU, specializing in clear, user-
 - [WhatsApp – Known Issues](whatsapp-known-issues.md)
 - [WhatsApp – Notification Settings Configuration Guide](whatsapp-notification-configuration-guide.md)
 - [WhatsApp – Quick Start Guide](whatsapp-quick-start-guide.md)
+- [WhatsApp – Best Practices Guide](whatsapp-best-practices-guide.md)
 
 
 
